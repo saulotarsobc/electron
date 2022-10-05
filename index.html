@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
+    <link href="./css/main.min.css" rel="stylesheet">
+    <title>Olá Mundo!</title>
+</head>
+
+<body>
+    <h1>Olá Mundo!</h1>
+    Estamo usando Node.js <span id="node-version"></span>,
+    Chromium <span id="chrome-version"></span>,
+    e Electron <span id="electron-version"></span>.
+
+    <!-- Você também pode exigir que outros arquivos sejam executados neste processo -->
+    <script src="./js/renderer.js"></script>
+</body>
+
+</html>
