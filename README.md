@@ -22,13 +22,13 @@ Para clonar e executar este repositório, você precisará do [Git](https://git-
 git clone https://github.com/saulotarsobc/electron.git
 # Entra no repositório
 cd electron
-#Instala dependências
+# Instala dependências
 npm install
-#Executa o aplicativo
+# Executa o aplicativo
 npm start
 ```
 
-Observação: se você estiver usando o Linux Bash para Windows, [consulte este guia](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s- bash-shell/) ou use `node` no prompt de comando.
+Observação: se você estiver usando o Linux Bash para Windows, [consulte este guia](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) ou use `node` no prompt de comando.
 
 ## Recursos para aprender Electron
 
