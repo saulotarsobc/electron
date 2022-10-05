@@ -2,7 +2,7 @@
 
 **Clone e corra para ver o Electron em ação rapidamente.**
 
-Este é um aplicativo Electron mínimo baseado no [Guia de início rápido](https://electronjs.org/docs/latest/tutorial/quick-start) na documentação do Electron.
+Este é um aplicativo básico em Electron baseado no [Guia de início rápido](https://electronjs.org/docs/latest/tutorial/quick-start) na documentação do Electron.
 
 Um aplicativo básico do Electron precisa apenas destes arquivos:
 
